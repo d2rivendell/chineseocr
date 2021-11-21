@@ -11,8 +11,10 @@ lmdb
 mahotas
 pandas
 requests
-web.py==0.40.dev0
+web.py==0.61
 pika
 matplotlib
 lxml
 bs4
+tensorflow==1.13.1
+keras==2.1.6
