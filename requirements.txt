@@ -6,7 +6,6 @@ easydict
 opencv-contrib-python
 Cython
 pillow
-h5py
 lmdb
 mahotas
 pandas
@@ -18,3 +17,4 @@ lxml
 bs4
 tensorflow==1.13.1
 keras==2.1.6
+h5py==2.10.0
